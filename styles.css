@@ -1,0 +1,39 @@
+/*EJEMPLO SELECTORES*/
+
+p {
+    color: red;
+}
+
+.class_ejemplo{
+    color:aqua;
+}
+
+#id_ejemplo{
+    color: blue;
+}
+
+
+/*EJEMPLO HERENCIA*/
+
+.padre{
+    color: green;
+}
+
+/*CASCADA*/
+
+span{
+    color: aquamarine;
+}
+
+span{
+    color: salmon;
+}
+
+/*ESPECIFICIDAD*/
+
+a{
+    color: blueviolet;
+}
+.vinculo{
+    color: yellow;
+}
